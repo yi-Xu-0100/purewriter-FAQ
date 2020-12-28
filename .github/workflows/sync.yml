@@ -4,7 +4,13 @@ name: sync
 # guide: [yi-Xu-0100/hub-mirror](https://github.com/yi-Xu-0100/hub-mirror)
 # template: [sync2gitee.cached.yml](https://github.com/yi-Xu-0100/hub-mirror/blob/main/template/sync2gitee.cached.yml)
 # lastmod: 2020-12-10 09:24:45
-on: page_build
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows: ['build']
+    branches: [main]
+    types:
+      - completed
 
 jobs:
   run:
