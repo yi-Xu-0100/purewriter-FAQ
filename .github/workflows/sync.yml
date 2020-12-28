@@ -43,3 +43,15 @@ jobs:
           cache_path: /github/workspace/hub-mirror-cache
           account_type: user
           force_update: true
+
+      - name: Print cache path
+        run: |
+          ls -la ${{ github.workspace }}/hub-mirror-cache
+
+      - name: Build Gitee Pages
+        uses: yanglbme/gitee-pages-action@v1.2.5
+        with:
+          gitee-username: yiXu0100
+          gitee-password: ${{ secrets.GITEE_PASSWORD }}
+          gitee-repo: yiXu0100/docsify-test
+          branch: gh-pages
