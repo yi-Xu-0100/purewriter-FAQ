@@ -56,7 +56,7 @@ WebDAV 云备份相当简单，你可以访问这个页面来了解纯纯写作�
 - 可以进入废纸篓彻底删除之前删除的文章，由于暂时没有全选与清空废纸篓功能，此操作需要手动进行。
   **注意，撤销此操作需要恢复备份。**
   
-- 网络等条件允许的话，也可以尝试使用其他的 WebDAV 服务，如 [Teracloud](https://teracloud.jp/)、[Box](https://www.box.com/)、Yandex disk、城通网盘、自行搭建的 WebDAV 等。
+- 网络等条件允许的话，也可以尝试使用其他的 WebDAV 服务，如 [Teracloud](https://teracloud.jp/)、[Box](https://www.box.com/)、[Yandex disk](https://disk.yandex.com/)、[城通网盘](https://www.ctfile.com/)、自行搭建的 WebDAV 等。
   **其他的 WebDAV 服务经常会受网络限制等情况无法使用或连接，严重时可能造成无法进行云端备份，请仔细考察其限制后慎重选择。**
   
 - 开通坚果云专业版。
