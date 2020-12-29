@@ -259,9 +259,9 @@ Android 的原生 TextView 无法实现文本的两端对齐，只有 WebView �
 
 在使用 Markdown 时若要获得预览效果，向右侧滑即可。
 
-如果你打算尝试 Markdown，你可以在这里获得来自开发者的简要介绍：[Markdown简明教程](https://writer.drakeet.com/markdown)，也可以在本教程中阅览[纯纯写作 Markdown 使用手册](./markdown-guide.md)。
+如果你打算尝试 Markdown，你可以在这里获得来自开发者的简要介绍：[Markdown简明教程](https://writer.drakeet.com/markdown)，也可以在本教程中阅览[纯纯写作 Markdown 使用手册](markdown-guide.md)。
 
-更多关于 Markdown 使用中的问题请参考：[纯纯写作 Markdown 使用常见问题](./markdown-faq.md)。
+更多关于 Markdown 使用中的问题请参考：[纯纯写作 Markdown 使用常见问题](markdown-faq.md)。
 
 ## Markdown 的快捷输入页面
 
@@ -297,7 +297,7 @@ Markdown 的快捷输入页面整合了一些常用的 Markdown 符号，Markdow
 
 希望能得到你的理解。
 
-如果你打算尝试 Markdown，你可以在这里获得来自开发者的简要介绍：[Markdown简明教程](https://writer.drakeet.com/markdown)，也可以在本教程中阅览[纯纯写作 Markdown 使用手册](https://purewriter.baklib.com/ec95)。
+如果你打算尝试 Markdown，你可以在这里获得来自开发者的简要介绍：[Markdown简明教程](https://writer.drakeet.com/markdown)，也可以在本教程中阅览[纯纯写作 Markdown 使用手册](markdown-guide.md)。
 
 ## 为何 Google Play 售价与国内售价不同？
 
